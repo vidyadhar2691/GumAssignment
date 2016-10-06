@@ -1,4 +1,4 @@
-package gumgum_assignment;
+package gum_assignment;
 
 import java.io.IOException;
 import java.net.URL;

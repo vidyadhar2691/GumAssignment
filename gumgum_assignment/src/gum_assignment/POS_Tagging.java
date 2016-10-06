@@ -1,4 +1,4 @@
-package gumgum_assignment;
+package gum_assignment;
 
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
